@@ -6,9 +6,9 @@
 
 It's reccommended to place Clove Suite Builder into /Application, once launched it will just sit on top your menubar, to activate just click on the Icon and main Window will show up
 
-[Install Infos](Install%20Infos.md)
+[Install Infos](media/Install%20Infos.md)
 
-[Tools Infos](Tools%20Infos.md)
+[Tools Infos](media/Tools%20Infos.md)
 
 [Kexts Infos](Kexts%20Install%20builder.md)
 #
