@@ -19,3 +19,4 @@ Clover Team for providing this amazing Boot loader
 all others who provided with their knowledge, expeperiences,
 many ideas and suggestions
 #
+[Download](https://github.com/LAbyOne/Clover-Suite-Builder/releases)
