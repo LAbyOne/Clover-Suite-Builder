@@ -10,7 +10,7 @@ It's reccommended to place Clove Suite Builder into /Application, once launched 
 
 [Tools Infos](media/Tools%20Infos.md)
 
-[Kexts Infos](Kexts%20Install%20builder.md)
+[Kexts Infos](media/Kexts%20Install%20builder.md)
 #
 ### Special Thanks to:
 
