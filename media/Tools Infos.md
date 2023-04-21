@@ -13,7 +13,7 @@
 
 ### Mac Serials Generator
 
-<img src="images/2d.png.d85b47ed423837b20364442373314526.png" width="418" height="272">
+<img src="images/MacSerials" width="418" height="272">
 
 ### CSRActive Config Generator
 
