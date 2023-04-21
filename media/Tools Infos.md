@@ -25,11 +25,11 @@
 
 ### Enroll Apple Seed
 
-<img src="Enroll.png" width="418" height="272">
+<img src="images/Enroll.png" width="418" height="272">
 
 ### OS Downloader and USB Boot Creator
 
-<img src="USBCreator.png" width="418" height="272">
+<img src="images/USBCreator.png" width="418" height="272">
 
 <img src="images/USBCreator2.png" width="418" height="272">
 
