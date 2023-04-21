@@ -13,7 +13,7 @@
 
 ### Mac Serials Generator
 
-<img src="images/MacSerials" width="418" height="272">
+<img src="images/MacSerials.png" width="418" height="272">
 
 ### CSRActive Config Generator
 
@@ -25,7 +25,7 @@
 
 ### Enroll Apple Seed
 
-<img src="seeds.png" width="418" height="272">
+<img src="Enroll.png" width="418" height="272">
 
 ### OS Downloader and USB Boot Creator
 
