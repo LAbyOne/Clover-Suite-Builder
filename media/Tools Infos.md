@@ -52,9 +52,17 @@
 
 <img src="images/Themes2.png" width="418" height="272">
 
+ on some repos you got to get also screenshots of listed themes for download
+ 
+so you will have the possibility to get an idea of what your going to get quickly,
+
 <img src="images/Themes3.png" width="418" height="272">
 
 <img src="images/Themes4.png" width="418" height="272">
+
+there's also a feature consisting in downloading the entire repos once into that tab
+
+just by pressing ENTER key. 
 
 #
 [Back](https://github.com/LAbyOne/Clover-Suite-Builder)
