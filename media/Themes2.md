@@ -96,6 +96,16 @@
  </div>
 </footer>
   <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
+  <h2>BW-BGM_SVG / Clovy</h2>
+   <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
+  <div>
+      <img src="https://raw.githubusercontent.com/CloverHackyColor/CloverThemes/cbb6079c16f7e0686b4b31bd415ebcaf3ed3e658/BGM_SVG/theme.svg" class="w3-image w3-left" width="500">
+      <img src="https://raw.githubusercontent.com/CloverHackyColor/CloverThemes/cbb6079c16f7e0686b4b31bd415ebcaf3ed3e658/Clovy/theme.svg" class="w3-image w3-right" width="500">
+     <div class="w3-padding-14 w3-center">
+    </div>
+ </div>
+</footer>
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Borealis / cesium</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -496,10 +506,11 @@
   </div>
  </footer>
   <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
-  <h2>ufo</h2>
+  <h2>ufo / macOS12</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
       <img src="https://github.com/CloverHackyColor/CloverThemes/raw/master/ufo/screenshot.png" class="w3-image w3-left" width="500">
+	  <img src="https://github.com/CloverHackyColor/CloverThemes/raw/master/macOS12/screenshot.png" class="w3-image w3-left" width="500">
 	  <div class="w3-padding-14 w3-center">
     </div>
   <footer>
