@@ -1,4 +1,4 @@
-  <!-- Header -->
+   <!-- Header -->
   <header class="w3-container w3-xlarge w3-padding-30">
     <a href=""class="w3-left w3-text-blue w3-button w3-hsl(140,0%,13%)"><h1>My Clover Themes</h1> </a>
     <a href=""class="w3-right w3-text-blue w3-button w3-hsl(140,0%,13%)"><h5>Click on images to enlarge </h5>
@@ -140,6 +140,17 @@
   <div>
       <img src="https://github.com/LAbyOne/CloverThemes/raw/master/Horrible_Gold/screenshot.png" class="w3-image w3-left" width="500">
       <img src="https://github.com/LAbyOne/CloverThemes/raw/master/Horrible_Gold/screenshot2.png" class="w3-image w3-right" width="500">
+     <div class="w3-padding-14 w3-center">
+    </div>
+ </div>
+</footer> 
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Marbles">
+  <h2>Horrible_Gold_II</h2>
+  <div>
+   <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
+  <div>
+      <img src="https://github.com/LAbyOne/CloverThemes/raw/master/Horrible_Gold_II/screenshot.png" class="w3-image w3-left" width="500">
+      <img src="https://github.com/LAbyOne/CloverThemes/raw/master/Horrible_Gold_II/screenshot2.png" class="w3-image w3-right" width="500">
      <div class="w3-padding-14 w3-center">
     </div>
  </div>
@@ -310,4 +321,4 @@
 <!--     </div> -->
 
 #
-[Back](https://github.com/LAbyOne/CloverThemes) 
+[Back](https://github.com/LAbyOne/Clover-Suite-Builder) 
