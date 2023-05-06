@@ -52,15 +52,32 @@
 
 <img src="images/Themes2.png" width="418" height="272">
 
- For any repo you got to get also screenshots of listed themes available
- 
+ - For any repo you got to get also screenshots of listed themes available
 to  download
 
 <img src="images/Themes3.png" width="418" height="272">
 
 <img src="images/Themes4.png" width="418" height="272">
 
-eventually just by pressing 'A' key  will download the entire repo. 
+- eventually just by pressing 'A' key  will download the entire repo. 
 
+#
+
+- The downloaded theme is installed directly into EFI partion and,
+ 
+<img src="images/Install.png" width="418" height="272">
+
+- set (if you choose so) as Default
+
+<img src="images/Install2.png" width="418" height="272">
+
+#
+
+ - If for any reason you happen to download a theme already installed
+ 
+ - install will be automatically skipped
+ 
+<img src="images/Install_alt.png" width="418" height="272">
+ 
 #
 [Back](https://github.com/LAbyOne/Clover-Suite-Builder)
