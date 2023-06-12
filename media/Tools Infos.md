@@ -7,6 +7,8 @@
 
 <img src="images/machInfo.png" width="418" height="272">
 
+<img src="images/machInfo2.png" width="418" height="272">
+
 ### ConfigPlist Validator
 
 <img src="images/plistVAL.png" width="418" height="272">
