@@ -4,6 +4,10 @@
 
 <img src="images/Kextsbuilder.png" width="418" height="272">
 
+<img src="images/R.png" width="418" height="272">
+
+<img src="images/N.png" width="418" height="272">
+
 - All kexts will be saved on Kexts directory into Extra Directory
 #
 - A few examples of kexts
